@@ -79,7 +79,6 @@ We can checkout the remote branch and start tracking it with a local branch that
 
       git checkout -b section-1 origin/1-navigation-and-containers
 
-It's also possible to download a ZIP file for a given branch,  using the branch dropdown on this page on the top left, and then selecting the Clone or Download / Download as ZIP button.
 
 # Other Courses
 
